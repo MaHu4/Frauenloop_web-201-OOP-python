@@ -1,4 +1,4 @@
-from ..models.student import Student
+from models.student import Student
 
 class TestStudent:
     def test_calculate_dob(self):
